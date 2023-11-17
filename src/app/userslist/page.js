@@ -11,7 +11,7 @@ export default async function UsersList() {
             {
                 userInfo.map((user)=>(
                     <li key={user.id}>
-                        <Link href={`/userslist/users/${user.id}`}>{user.firstName}</Link>
+                        <Link href={`/userslist/users${user.id}`}>{user.firstName}</Link>
                     </li>
                 ))
             }
