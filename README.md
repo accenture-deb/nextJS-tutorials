@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## This session is on SSG generation with Dynamic routes based on dummy APIs (Part 1)
+
 ## Getting Started
 
 First, run the development server:
