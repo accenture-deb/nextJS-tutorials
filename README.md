@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## This session is on middleware.js and about how to create private folder
+## This session is on private folders 
 
 ## Getting Started
 
